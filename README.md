@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Hello! My Name  is Yushan Jayasekara, I’m a final year Data Science undergraduate at SLIIT. Also, I am a Data Analyst and Database Administrator with over eight months of experience. I would describe my self as a dedicated and a responsible individual who wants to achieve success in this industry. I am a driven individual who thrives on challenges and consistently strives to achieve new goals through my positive attitude and strong work ethic. My exceptional time management skills ensure that I consistently deliver high-quality work without succumbing to stress. Recognizing the importance of effective communication, I am actively honing this skill to further enhance my professional capabilities. In addition to my career and academic pursuits, I passionately engage in sports, indulge in enriching cinematic experiences, and embark on explorations of the natural world during my leisure time.
+Hello! My Name  is Yushan Jayasekara, I’m a final-year Data Science undergraduate at SLIIT. Also, I am a Data Analyst and Database Administrator with over eight months of experience. I would describe myself as a dedicated and responsible individual who wants to succeed in this industry. I am a driven individual who thrives on challenges and consistently strives to achieve new goals through my positive attitude and strong work ethic. My exceptional time management skills ensure that I consistently deliver high-quality work without succumbing to stress. Recognizing the importance of effective communication, I am actively honing this skill to enhance my professional capabilities further. In addition to my career and academic pursuits, I passionately engage in sports, indulge in enriching cinematic experiences, and embark on explorations of the natural world during my leisure time.
 
 
 ---
@@ -25,9 +25,9 @@ The Preparation for the Professional World module helped us to enhance our commu
 
 2. **Evaluation**: During my internship, I learned the importance of basic skills for industry success. This module helped me develop these skills, including professional email, presentation, industry norms, and effective communication in an industrial environment, which has been highly beneficial.
 
-3. **Analysis**: The PW module enhances communication skills for professional success, covering business writing, email writing, presentation language, letter writing, memo writing, report writing, and formal letter writing, crucial for IT and other industries.
+3. **Analysis**: The PW module enhances communication skills for professional success, covering business writing, email writing, presentation language, letter writing, memo writing, report writing, and formal letter writing, which is crucial for IT and other industries.
 
-4. **Conclution**: The PPW module has significantly enhanced communication skills, particularly in IT, and aligned with the student's passion for data science. It has significantly impacted personal and professional growth, enhancing confidence and soft skills in real-world contexts.
+4. **Conclusion**: The PPW module has significantly enhanced communication skills, particularly in IT, and aligned with the student's passion for data science. It has significantly impacted personal and professional growth, enhancing confidence and soft skills in real-world contexts.
 
 
 ---
@@ -35,15 +35,15 @@ The Preparation for the Professional World module helped us to enhance our commu
 ## Career Development Plan
 
 **Short-term Goals (1-3 years):**
-1. **Master the Fundamentals**: Gain hands-on experience, Learn basic concepts. 
-2. **Build a Professional Network**: Attend industry conference and meetups, Connect with alumni.
-3. **Develop practical and soft skills**: Improve communication skills, Collaborate with peers on group projects.
+1. **Master the Fundamentals**: Gain hands-on experience and learn basic concepts. 
+2. **Build a Professional Network**: Attend industry conferences and meetups and connect with alumni.
+3. **Develop practical and soft skills**: Improve communication skills and collaborate with peers on group projects.
 
 
 **Long-term Goals (4+ years):**
 1. **Specialize My Knowledge**: Conduct independent research, Specialize specific areas(ML, AI, Big data). 
 2. **Aim for Executive & Strategic Roles**: Attend industry. conference & meetups, Pursue an MBA or executive education
-3. **Gain Leadership and Project Management Experience**: Volunteer for leadership roles, Collaborate with peers on group projects.
+3. **Gain Leadership and Project Management Experience**: Volunteer for leadership roles and collaborate with peers on group projects.
 
 
 ---
@@ -107,12 +107,11 @@ Relevant Coursework: Artificial intelligence, Machine Learning, Deep Learning, S
 **Technical Skills**: `Python`, `R`, `Machine Learning`, `Deep Learning`, `Neural Networks`, `Data Science`, `Data Analysis`, `Data Mining`, `EDA`, `Data Warehousing`, `Data Engineering`, `ETL/ELT`, `Probability and Statistics`, `Cloud Computing`,  `Language Modelling`, `Knowledge Graphs`, `Transformers`, `Web Scraping`.
 
 
-**Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`,  `OpenAI Stack`, `Google AI Stack`, `Neo4j`,  `Docker`, `AWS`, `Azure`, `Streamlit`, `MSSQL Server`, `MSSQL server miration Assistant`, `PowerBI`.
+**Tools**: `TensorFlow`, `Keras`, `NLTK`, `spaCy`, `Scikit-learn`, `OpenCV`, `Langchain`,  `OpenAI Stack`, `Google AI Stack`, `Neo4j`,  `Docker`, `AWS`, `Azure`, `Streamlit`, `MSSQL Server`, `MSSQL server migration Assistant`, `PowerBI`.
 
 
 **Skills**: `Data Analysis`, `Data Visualization`, `Creativity`, `Spectrum thinking`, `Data Strategy`, `Fast learning`, `Multi-tasking`.
 
----
 ---
 ---
 ---
